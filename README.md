@@ -16,7 +16,7 @@ git clone https://github.com/eacbypass/SorryHack.git
 cd SorryHack
 ```
 
-3. install the [Prerequisites](https://github.com/eacbypass/SorryHack#prerequisites).
+3. install the [Prerequisites](https://github.com/eacbypass/SorryHack#prerequisites) & the [Additional Dependencies](https://github.com/eacbypass/SorryHack#additional-dependencies).
 
 4. Run
 
