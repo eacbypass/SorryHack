@@ -32,6 +32,8 @@ base.sln
 1. [directx sdk](https://www.microsoft.com/en-us/download/details.aspx?id=6812)
 2. [c++ redistributables](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
 
+#
+
 ### faq
 **how do i open the menu?**
 - There is no menu at the minute
