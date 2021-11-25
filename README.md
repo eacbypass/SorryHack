@@ -16,11 +16,7 @@ git clone https://github.com/eacbypass/SorryHack.git
 cd SorryHack
 ```
 
-3. install DirectX9
-
-```
-https://www.microsoft.com/en-us/download/details.aspx?id=8109
-```
+3. install the [Prerequisites](https://github.com/eacbypass/SorryHack#prerequisites).
 
 4. Run
 
