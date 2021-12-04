@@ -1,4 +1,5 @@
 # SorryHack v2.1
+![GitHub all releases](https://img.shields.io/github/downloads/eacbypass/SorryHack/total?color=%23FF8C00&style=flat-square)
 
 CS:GO Community Server Crasher made from [qo0 Base](https://github.com/rollraw/qo0-base/).
 
